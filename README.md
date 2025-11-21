@@ -90,24 +90,3 @@ src/
   main.jsx
   index.css              # Tailwind setup
 ```
-
-🔧 Cara Instalasi & Menjalankan Project
-
-Clone repository
-
-git clone https://github.com/fauzanarif1/user-dashboard-react.git
-cd user-dashboard-react
-
-
-Install dependencies
-
-npm install
-
-
-Jalankan server
-
-npm run dev
-
-
-Buka di browser
-👉 http://localhost:5173
